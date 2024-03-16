@@ -1,4 +1,5 @@
 .container {
+<<<<<<< HEAD
     background: dodgerblue;
     border: 4px solid midnightblue;
     width: 400px;
@@ -17,3 +18,19 @@
     height: 80px;
     display: flex;
   }
+=======
+  background: dodgerblue;
+  border: 4px solid midnightblue;
+  width: 400px;
+  height: 300px;
+}
+
+.box {
+  background: palevioletred;
+  font-weight: bold;
+  text-align: center;
+  border: 6px solid maroon;
+  width: 80px;
+  height: 80px;
+}
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e

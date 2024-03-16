@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     background: #eee;
     font-family: sans-serif;
   }
@@ -47,3 +48,31 @@ body {
     padding-bottom: 8px; */
     padding: 8px 24px;
   }
+=======
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+}
+
+.title {
+  background: #e3f4ff;
+}
+
+.content {
+  background: #e3f4ff;
+}
+
+.button-container {
+  background: #e3f4ff;
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+}
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e

@@ -5,8 +5,11 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
+=======
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 }
 
 img {
@@ -18,7 +21,10 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+<<<<<<< HEAD
   padding: 8px 16px;
+=======
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 }
 
 input {
@@ -26,6 +32,7 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+<<<<<<< HEAD
 }
 
 .content{
@@ -57,3 +64,7 @@ a {
     text-decoration: none;
     color: #666666;
 }
+=======
+  margin-bottom: 16px;
+}
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
